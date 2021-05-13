@@ -1,0 +1,3 @@
+[submodule "example-hello-c-lib"]
+	path = example-hello-c-lib
+	url = git@github.com:liviaerxin/example-hello-c-lib.git
